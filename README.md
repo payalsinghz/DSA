@@ -1,2 +1,2 @@
-# DSA
-DSA basic questions 
+# C++
+C++ basic questions 
